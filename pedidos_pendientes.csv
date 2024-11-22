@@ -1,0 +1,7 @@
+id_pedido,cliente,fecha,monto,total_productos
+101,"Carlos López",2024-11-18,500,3
+103,"Juan Pérez",2024-11-18,120,3
+105,"Luis Martínez",2024-11-19,200,3
+106,"Sofía Reyes",2024-11-15,300,2
+109,"Carlos López",2024-11-12,700,1
+Total,,,1820,12

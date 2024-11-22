@@ -1,0 +1,39 @@
+{
+    "cliente": "Ana Gomez",
+    "monto_total": 1450,
+    "pedidos": {
+        "3": {
+            "id_pedido": 104,
+            "cliente": "Ana Gomez",
+            "fecha": "2024-11-16",
+            "monto": 950,
+            "estado": "completado",
+            "items": [
+                {
+                    "producto": "Laptop",
+                    "cantidad": 1,
+                    "precio_unitario": 900
+                },
+                {
+                    "producto": "Mouse",
+                    "cantidad": 1,
+                    "precio_unitario": 50
+                }
+            ]
+        },
+        "9": {
+            "id_pedido": 110,
+            "cliente": "Ana Gomez",
+            "fecha": "2024-11-11",
+            "monto": 500,
+            "estado": "completado",
+            "items": [
+                {
+                    "producto": "Escritorio",
+                    "cantidad": 1,
+                    "precio_unitario": 500
+                }
+            ]
+        }
+    }
+}
